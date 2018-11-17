@@ -1,0 +1,42 @@
+body{
+    background-color: #444444;
+    color:white
+    
+}
+
+.wendy{
+    margin: 45px;
+    margin-right: 290px;
+    margin-left: 290px;
+    border: 5px solid #6a737d;
+    text-align:center;
+    padding:80px;
+}
+
+
+h2{
+    text-align: left;
+}
+
+.align-left{
+    text-align: left;
+}
+
+p{
+    display: block;
+    text-align: left;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px; 
+}
+
+.bettyImg{
+    float:right;
+    border: #777777 solid 2px;
+    padding: 7px;
+    margin: 20px;
+    
+}
+
+a:link, a:visited {
+    color: #6da;
+}
